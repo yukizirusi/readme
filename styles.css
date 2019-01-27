@@ -10,8 +10,7 @@
 header{
   text-align:right;
   padding:10px;
-  background-image:
-  url(/header.png);
+  background-image:url(./header.png);
   height:240px;
   background-size:cover;
   background-position: 50% 50%;
