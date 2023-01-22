@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T14:06:23.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.10" etag="CuGlx0e78QqQBAqPx97_" type="github"><diagram name="ページ1" id="NEaS99z2JQvJowwRx1WI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-22T14:10:36.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xaD9BaI6L3dJSIg3x42a" version="20.8.10" type="github">
+  <diagram name="ページ1" id="NEaS99z2JQvJowwRx1WI">
+    <mxGraphModel dx="934" dy="965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SFD5KA067ww0ewG6zYvu-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SFD5KA067ww0ewG6zYvu-4" target="SFD5KA067ww0ewG6zYvu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-53" y="-24" width="120" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-2" value="ログイン画面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-42" y="-18" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="107" y="-24" width="120" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-8" value="メイン画面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="118" y="-18" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-9" value="メイン画面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="118" y="18" width="98" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
