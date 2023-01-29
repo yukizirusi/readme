@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T15:02:59.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Z9Ik8S9m6tY17Hh-sATd" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T14:04:12.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="OAxnjWXL_MTfkAbShsQD" version="20.8.10" type="github">
   <diagram name="ページ1" id="NEaS99z2JQvJowwRx1WI">
-    <mxGraphModel dx="1055" dy="1136" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1491" dy="1471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="SFD5KA067ww0ewG6zYvu-8" value="メイン画面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="118" y="-18" width="98" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SFD5KA067ww0ewG6zYvu-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="490" y="363" width="190" height="134" as="geometry" />
         </mxCell>
         <mxCell id="SFD5KA067ww0ewG6zYvu-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-111" y="-20.75" width="120" height="135" as="geometry" />
@@ -69,7 +66,7 @@
             <mxPoint x="491" y="427" as="targetPoint" />
             <mxPoint x="321" y="237" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="321" y="427" />
+              <mxPoint x="321" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -82,23 +79,26 @@
         <mxCell id="SFD5KA067ww0ewG6zYvu-37" value="ToDoダイアログ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="SFD5KA067ww0ewG6zYvu-38">
           <mxGeometry x="28.147368421052633" y="7.880597014925373" width="134.70526315789473" height="39.40298507462687" as="geometry" />
         </mxCell>
-        <mxCell id="SFD5KA067ww0ewG6zYvu-52" value="・担当者の設定、ステータス変更(%含む)、タイトル・内容の変更" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="SFD5KA067ww0ewG6zYvu-38">
+        <mxCell id="SFD5KA067ww0ewG6zYvu-52" value="・新規登録/変更/削除&lt;br&gt;・担当者の設定、ステータス変更(%含む)、タイトル・内容の変更" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="SFD5KA067ww0ewG6zYvu-38">
           <mxGeometry x="13.5" y="47.28" width="164" height="116.72" as="geometry" />
         </mxCell>
         <mxCell id="SFD5KA067ww0ewG6zYvu-39" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;マイページボタン&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="336" y="12" width="137" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="SFD5KA067ww0ewG6zYvu-40" value="&lt;div style=&quot;text-align: center;&quot;&gt;ToDo項目&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="363" y="203" width="83" height="29" as="geometry" />
+        <mxCell id="SFD5KA067ww0ewG6zYvu-40" value="&lt;div style=&quot;text-align: center;&quot;&gt;ToDo項目&lt;br&gt;新規画面&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="363" y="188" width="83" height="29" as="geometry" />
         </mxCell>
         <mxCell id="SFD5KA067ww0ewG6zYvu-41" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="827" y="185" width="190" height="134" as="geometry" />
+          <mxGeometry x="827" y="166" width="190" height="169" as="geometry" />
         </mxCell>
         <mxCell id="SFD5KA067ww0ewG6zYvu-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="SFD5KA067ww0ewG6zYvu-41">
-          <mxGeometry y="4" width="190" height="134" as="geometry" />
+          <mxGeometry y="5.044776119402986" width="190" height="169" as="geometry" />
         </mxCell>
         <mxCell id="SFD5KA067ww0ewG6zYvu-43" value="QAダイアログ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="SFD5KA067ww0ewG6zYvu-41">
-          <mxGeometry x="34" y="6" width="118" height="30" as="geometry" />
+          <mxGeometry x="34" y="7.567164179104478" width="118" height="37.83582089552239" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-63" value="・新規登録/変更/削除&lt;br&gt;・担当者の設定、ステータス変更(%含む)、タイトル・内容の変更" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="SFD5KA067ww0ewG6zYvu-41">
+          <mxGeometry x="13" y="45.400000000000006" width="164" height="116.72" as="geometry" />
         </mxCell>
         <mxCell id="SFD5KA067ww0ewG6zYvu-46" value="&lt;div style=&quot;text-align: center;&quot;&gt;QAボタン&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="714" y="194" width="83" height="29" as="geometry" />
@@ -123,8 +123,34 @@
         <mxCell id="SFD5KA067ww0ewG6zYvu-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SFD5KA067ww0ewG6zYvu-13" target="SFD5KA067ww0ewG6zYvu-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SFD5KA067ww0ewG6zYvu-54" value="&lt;div style=&quot;text-align: center;&quot;&gt;QA一覧&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="363" y="394" width="83" height="29" as="geometry" />
+        <mxCell id="SFD5KA067ww0ewG6zYvu-54" value="&lt;div style=&quot;text-align: center;&quot;&gt;QA一覧ボタン&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="332" y="394" width="114" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-56" value="ToDoダイアログ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="493" y="402" width="186" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="490" y="369" width="190" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="SFD5KA067ww0ewG6zYvu-58">
+          <mxGeometry width="190" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-55" value="QA一覧ダイアログ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="SFD5KA067ww0ewG6zYvu-58">
+          <mxGeometry x="16" y="6.49" width="160" height="51.17" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-57" value="・全体、あるいはToDoに対応するQAを一覧で表示する" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="SFD5KA067ww0ewG6zYvu-58">
+          <mxGeometry x="3" y="42.850746268656714" width="186" height="128.55223880597015" as="geometry" />
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFD5KA067ww0ewG6zYvu-14" target="SFD5KA067ww0ewG6zYvu-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="731" y="456" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="922" y="456" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFD5KA067ww0ewG6zYvu-62" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;QA項目&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="766" y="423" width="68" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
